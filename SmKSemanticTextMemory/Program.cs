@@ -17,12 +17,12 @@ using Microsoft.SemanticKernel.ChatCompletion;
 
 
 
-const string modelo = @"gpt-4o-mini";
-const string endpoint = "https://david-m5e7j0ru-swedencentral.openai.azure.com/";
-const string keys = "\"G5zWmPx8q7mSueyQjCuox74nvrZvNc3ngLcKP692iyejAPCh43RGJQQJ99BAACfhMk5XJ3w3AAAAACOGewmJ\"";
+const string modelo = @"";
+const string endpoint = ";
+const string keys = "\""";
 
-const string searchendpoint = "https://search-openaidemo.search.windows.net";
-const string searckeys = "0nBDRolttltInbSF2qUh0efqg64AFRKVCvjNcefr2mAzSeBST7Y5";
+const string searchendpoint = "";
+const string searckeys = ";
 const string searchindex = "text-index";
 
 
