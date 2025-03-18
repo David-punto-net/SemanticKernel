@@ -2,7 +2,7 @@
 Este repositorio contiene ejemplos prácticos sobre cómo utilizar **Semantic Kernel** para implementar IA local, conectando un LLM a través de Ollama.
 
 ## 🚀 Tecnologías Utilizadas
-Semantic Kernel: Framework de Microsoft para la integración de modelos de IA en aplicaciones .NET.
+Semantic Kernel: SDK de Microsoft para la integración de modelos de IA en aplicaciones .NET.
 Ollama: Plataforma para ejecutar modelos de lenguaje de manera local.
 LLama 3.1: LLM.
 ## 🛠️ Funcionalidades
