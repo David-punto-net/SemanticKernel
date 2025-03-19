@@ -13,7 +13,7 @@ Este repositorio contiene ejemplos prácticos sobre cómo utilizar **Semantic Ke
 **- Gestión de contexto** con **Semantic Kernel** para mejorar la coherencia en las respuestas.  
 
 ## Ejemplos Incluidos  
-- **Configuración de Semantic Kernel con Ollama**  
+- **SmKChat:**  
 - **Implementación de un chat con historial**  
 - **Uso de Plugins en Semantic Kernel**  
 
