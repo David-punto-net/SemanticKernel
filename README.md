@@ -24,7 +24,7 @@ Algunas características clave de Semantic Kernel son:
 - **Llama 3.1**: Modelo de lenguaje (LLM) compatible con Ollama.  
 
 ## Ejemplos Incluidos  
-- **SmKChat:** Ejemplo de como conectar el LLM local (llama3.1) atraves de Ollama y habilitar el un Chat con historial y asignarle una personalidad a la IA atraves del mensaje del sistema. 
+- **SmKChat:** Ejemplo de como conectar el LLM local (llama3.1) atraves de Ollama, habilitar el Chat con historial y asignarle una personalidad a la IA atraves del mensaje del sistema. 
 - **Implementación de un chat con historial**  
 - **Uso de Plugins en Semantic Kernel**  
 
