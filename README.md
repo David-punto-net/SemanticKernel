@@ -30,6 +30,6 @@ Algunas características clave de Semantic Kernel son:
 
 ## Requisitos  
 - **.NET 8 SDK**  
-- **Semantic Kernel**  
+- **Semantic Kernel SDK**  
 - **Ollama**
 - **LLM compatible con Ollama**   
