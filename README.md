@@ -1,6 +1,6 @@
 # 🤖 Semantic Kernel  
 
-Este repositorio contiene ejemplos prácticos sobre cómo utilizar **Semantic Kernel** para implementar IA local, conectando un **LLM** a través de **Ollama**.  
+Este repositorio contiene ejemplos prácticos sobre cómo utilizar **Semantic Kernel** para implementar **IA local**, conectando un **LLM** a través de **Ollama**.  
 
 ## Tecnologías Utilizadas  
 - **Semantic Kernel**: SDK de Microsoft para la integración de modelos de IA en aplicaciones .NET.  
