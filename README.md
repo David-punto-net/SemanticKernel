@@ -2,7 +2,7 @@
 
 Este repositorio contiene ejemplos prácticos sobre cómo utilizar **Semantic Kernel** para implementar **IA local**, conectando un **LLM** a través de **Ollama**.  
 
-Semantic Kernel es una biblioteca de código abierto desarrollada por Microsoft que facilita la creación de aplicaciones de inteligencia artificial (IA) al integrar modelos de lenguaje (LLM) y herramientas de IA con aplicaciones personalizadas. 
+**Semantic Kernel** es una biblioteca de código abierto desarrollada por Microsoft que facilita la creación de aplicaciones de inteligencia artificial (IA) al integrar modelos de lenguaje (LLM) y herramientas de IA con aplicaciones personalizadas. 
 Está diseñada para trabajar con modelos como GPT y otros similares, proporcionando una infraestructura para desarrollar y gestionar tareas complejas de procesamiento de lenguaje natural (NLP).
 
 ## Tecnologías Utilizadas  
