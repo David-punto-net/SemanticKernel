@@ -7,7 +7,7 @@ Está diseñada para trabajar con modelos como GPT y otros similares, proporcion
 
 Algunas características clave de Semantic Kernel son:
 
-**- Integración de LLMs**: Permite usar modelos de lenguaje como GPT-3, GPT-4 y otros, de manera sencilla y flexible, integrándolos directamente en las aplicaciones.
+**- Integración de LLMs**: Permite usar modelos de lenguaje como GPT y otros, de manera sencilla y flexible, integrándolos directamente en las aplicaciones.
 
 **- Orquestación de habilidades**: Ayuda a gestionar y orquestar diferentes "habilidades" (funciones o acciones) que la IA puede realizar, facilitando la creación de aplicaciones más avanzadas y personalizadas.
 
