@@ -11,6 +11,8 @@ Algunas características clave de Semantic Kernel son:
 
 **- Orquestación de habilidades**: Ayuda a gestionar y orquestar diferentes "habilidades" (funciones o acciones) que la IA puede realizar, facilitando la creación de aplicaciones más avanzadas y personalizadas.
 
+**- Plugins**: Son conjuntos de funciones que pueden encapsular lógica específica y reutilizable.
+
 **- Interacción con herramientas externas**: Facilita la integración con servicios y herramientas externas como bases de datos, APIs, y sistemas de mensajería, lo que permite ampliar la funcionalidad de las aplicaciones.
 
 **- Desarrollo de flujos de trabajo**: Los desarrolladores pueden definir y controlar el flujo de trabajo, asegurando que la IA ejecute tareas en el orden y con las condiciones adecuadas.
@@ -25,8 +27,8 @@ Algunas características clave de Semantic Kernel son:
 
 ## Ejemplos Incluidos  
 - **SmKChat:** Ejemplo de como conectar el LLM local (llama3.1) atraves de Ollama, habilitar el Chat con historial y asignarle una personalidad a la IA atraves del mensaje del sistema. 
-- **Implementación de un chat con historial**  
-- **Uso de Plugins en Semantic Kernel**  
+- **SmKPlugins:** Creamos el primer pluggin dandole la capacidad de enviar email a una direccion de correo.  
+
 
 ## Requisitos  
 - **.NET 8 SDK**  
