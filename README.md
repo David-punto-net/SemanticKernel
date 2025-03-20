@@ -27,7 +27,7 @@ Algunas características clave de Semantic Kernel son:
 
 ## Ejemplos Incluidos  
 - **SmKChat:** Ejemplo de como conectar el LLM local (llama3.1) atraves de Ollama, habilitar el Chat con historial y asignarle una personalidad a la IA atraves del mensaje del sistema. 
-- **SmKPlugins:** Creamos el primer pluggin dandole la capacidad de enviar email a una direccion de correo.  
+- **SmKPlugins:** Creamos el primer pluggin dandole la capacidad de enviar email.  
 
 
 ## Requisitos  
