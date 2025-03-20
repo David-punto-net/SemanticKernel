@@ -1,4 +1,4 @@
-# Semantic Kernel  
+# Semantic Kernel  IA
 
 Este repositorio contiene ejemplos sobre cómo utilizar **Semantic Kernel** para implementar **IA local**, conectando un **LLM** a través de **Ollama**.  
 
