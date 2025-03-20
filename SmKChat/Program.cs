@@ -6,8 +6,8 @@ using Microsoft.SemanticKernel.Connectors.Ollama;
 #pragma warning disable SKEXP0070
 
 
-const string modelOllama = @"llama3.1:8b";
-const string endpointOllama = "http://localhost:11434";
+const string modelOllama = @"";
+const string endpointOllama = "";
 
 
 var kernelBuilder = Kernel.CreateBuilder()

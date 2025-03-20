@@ -19,8 +19,8 @@ var builder = Host.CreateApplicationBuilder(args);
 builder.Configuration.SetBasePath(Directory.GetCurrentDirectory());
 
 
-const string modelOllama = @"llama3.1:8b";
-const string endpointOllama = "http://localhost:11434";
+const string modelOllama = @"";
+const string endpointOllama = "";
 
 const string smtpServer = "";
 const int port = 587;
