@@ -23,7 +23,8 @@ Algunas características clave de Semantic Kernel son:
 ## Tecnologías Utilizadas  
 - **Semantic Kernel**: SDK de Microsoft para la integración de modelos de IA en aplicaciones .NET.  
 - **Ollama**: Plataforma para ejecutar modelos de lenguaje de manera local.  
-- **Llama 3.1**: Modelo de lenguaje (LLM) compatible con Ollama.  
+- **Llama 3.1**: Modelo de lenguaje (LLM) compatible con Ollama.
+- **Qdrant**: Es un motor de búsqueda de bases de datos vectoriales optimizado para recuperación semántica de información. 
 
 ## Ejemplos Incluidos  
 - **SmKChat:** Ejemplo de como conectar el LLM local (llama3.1) atraves de Ollama, habilitar el Chat con historial y asignarle una personalidad a la IA atraves del mensaje del sistema. 
@@ -36,4 +37,6 @@ Algunas características clave de Semantic Kernel son:
 - **.NET 8 SDK**  
 - **Semantic Kernel SDK**  
 - **Ollama**
-- **LLM compatible con Ollama**   
+- **LLM compatible con Ollama**
+- **Qdrant**
+- **Docker** 
