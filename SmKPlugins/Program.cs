@@ -16,6 +16,7 @@ using System.Diagnostics;
 
 var builder = Host.CreateApplicationBuilder(args);
 
+
 builder.Configuration.SetBasePath(Directory.GetCurrentDirectory());
 
 
