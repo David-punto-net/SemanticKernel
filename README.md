@@ -29,8 +29,8 @@ Algunas características clave de Semantic Kernel son:
 ## Ejemplos Incluidos  
 - **SmKChat:** Ejemplo de como conectar el LLM local (llama3.1) atraves de Ollama, habilitar el Chat con historial y asignarle una personalidad a la IA atraves del mensaje del sistema. 
 - **SmKPlugins:** Creamos el primer pluggin dandole la capacidad de enviar email.
-- **LoadPDF:**  Proyecto para cargar base de datos vectorial Qdrant con la información de documentos PDF
-- **SmkRAG:** IA basada en modelo RAG, responde sobre la informacion almacenada en la BD Qdrand.(Los documentos que se cargaron en LoadPDF)
+- **LoadPDF:**  Proyecto para cargar base de datos vectorial Qdrant con la información de documentos PDF.
+- **SmkRAG:** IA basada en modelo RAG, responde sobre la informacion almacenada en la BD Qdrand.(Los documentos cargados en LoadPDF)
 
 
 ## Requisitos  
